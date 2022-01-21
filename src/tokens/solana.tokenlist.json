@@ -85306,6 +85306,14 @@
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BC1QPt3SMAni1mNDbeXLGmUL1ie6n2L6GX943UACwu3R/logo.png"
     }
+    {
+      "chainId": 101,
+      "address": "JDdU9XAry5FNKFKxrrFbFiK6yAHKoWqbYSTJdUQfrjua",
+      "symbol": "ANU",
+      "name": "ANUNAKI",
+      "decimals": 0,
+      "logoURI": "https://github.com/nachodacal1/tokenannunaki/blob/main/thumbnail_IMG_4221.jpg"
+    }
   ],
   "version": {
     "major": 0,
